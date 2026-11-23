@@ -17,6 +17,7 @@
 | Технологии | HTML5, CSS3, ванильный JavaScript, Web Audio API |
 | Сборка | Не требуется |
 | Внешние аудиофайлы | Не используются — звук генерируется в браузере |
+| GitHub Pages | <https://mgkmgk81.github.io/lida-masteritsa/> (ветка `main`, корень `/`) |
 
 ## Структура страницы
 
